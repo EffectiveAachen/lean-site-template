@@ -17,79 +17,6 @@ DefaultContentLanguage = "de"
   [params]
 
   [Languages]
-  [Languages.de]
-  title = "EA Aachen Webseite"
-  weight = 2
-  languageCode = "de"
-
-  [Languages.de.general]
-  ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effektiver Altruismus Aachen"
-  strapline = "Hilft dir, Gutes besser zu tun"
-
-  [Languages.de.groupinfo]
-  ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism Aachen e.V."
-  orgLocations = "Aachen"
-  contactEmail = "EAAachenLokal@gmail.com"
-
-  [Languages.de.navbar]
-  ## -- NAVIGATION BAR HEADERS -- ##
-  # You probably don't need/want to change these,
-  # but if you do you'll also want to change the relevant .md file under the
-  # content folder so the copy corresponds with the header.
-  home = "Startseite"
-  faq = "FAQ"
-  effectiveAltruism = "Effektiver Altruismus"
-  aboutEA = "Über EA"
-  readingMaterial = "Lesematerial"
-  keyTerms = "Schlüsselbegriffe"
-  organizations = "Organisationen"
-  contact= "Kontakt"
-
-  [Languages.de.pages]
-  ## -- PAGE HEADERS -- ##
-  contactPageHeader = "Kontaktiere uns"
-  aboutEAPageHeader = "Was ist Effektiver Altruismus?"
-
-  [Languages.de.homepage]
-   ## -- HOMEPAGE -- ##
-  topBannerText = "Wer sind wir?"
-  leadText = "Wir sind eine Gruppe von Leuten, die dir helfen wollen die Frage 'Wie kann ich Gutes besser tun?' zu beantworten." 
-  firstSectionHeader = "Gutes besser tun"
-  secondSectionHeader = "Eine Gemeinschaft aufbauen"
-  thirdSectionHeader = "Finding better ways to help"
-  bottomBannerText = "Ein stolzes Mitglied im effektiven Altruismus Netzwerk"
-
-  [Languages.de.contactform]
-  ## -- CONTACT FORM -- ##
-  leadText = "Sag Hallo!"
-  senderName = "Dein Name (benötigt)"
-  senderEmail = "Deine E-Mail-Adresse (benötigt)"
-  emailSubject = "Betreff"
-  emailMessage = "Deine Nachricht"
-  send = "Absenden"
-
-  [Languages.de.jumbotron]
-  # These are the buttons right under the header that appears on the main page.
-  # You can use them to link to a mailing list or Facebook page.
-  # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
-  # Remove the # before the text to add the optional Meetup button
-  # meetupButtonText = "Find us on Meetup"
-
-  [Languages.de.urls]
-  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
-  # If your group does not have URLs for these, just add # before the line
-  # to remove the link from the site
-  facebookUrl = "https://www.facebook.com/groups/1869213746677061/?hc_ref=ARQRNxTwNi9IqNiUFnTHf7GJU02wIwXQPUSKywvvLJUCrkFmJxn7OZIr07r_IEZPb_A"
-  #twitterUrl = ""
-  #meetupUrl = ""
-  
-  
   [Languages.en]
   title = "Local EA Website"
   weight = 1
@@ -161,3 +88,75 @@ DefaultContentLanguage = "de"
   facebookUrl = ""
   twitterUrl = ""
   meetupUrl = ""
+  
+  [Languages.de]
+  title = "EA Aachen Webseite"
+  weight = 2
+  languageCode = "de"
+
+  [Languages.de.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effektiver Altruismus Aachen"
+  strapline = "Hilft dir, Gutes besser zu tun"
+
+  [Languages.de.groupinfo]
+  ## -- EA GROUP INFO -- ##
+  legalOrgName = "Effective Altruism Aachen e.V."
+  orgLocations = "Aachen"
+  contactEmail = "EAAachenLokal@gmail.com"
+
+  [Languages.de.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Startseite"
+  faq = "FAQ"
+  effectiveAltruism = "Effektiver Altruismus"
+  aboutEA = "Über EA"
+  readingMaterial = "Lesematerial"
+  keyTerms = "Schlüsselbegriffe"
+  organizations = "Organisationen"
+  contact= "Kontakt"
+
+  [Languages.de.pages]
+  ## -- PAGE HEADERS -- ##
+  contactPageHeader = "Kontaktiere uns"
+  aboutEAPageHeader = "Was ist Effektiver Altruismus?"
+
+  [Languages.de.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Wer sind wir?"
+  leadText = "Wir sind eine Gruppe von Leuten, die dir helfen wollen die Frage 'Wie kann ich Gutes besser tun?' zu beantworten." 
+  firstSectionHeader = "Gutes besser tun"
+  secondSectionHeader = "Eine Gemeinschaft aufbauen"
+  thirdSectionHeader = "Finding better ways to help"
+  bottomBannerText = "Ein stolzes Mitglied im effektiven Altruismus Netzwerk"
+
+  [Languages.de.contactform]
+  ## -- CONTACT FORM -- ##
+  leadText = "Sag Hallo!"
+  senderName = "Dein Name (benötigt)"
+  senderEmail = "Deine E-Mail-Adresse (benötigt)"
+  emailSubject = "Betreff"
+  emailMessage = "Deine Nachricht"
+  send = "Absenden"
+
+  [Languages.de.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "First Button Text"
+  firstButtonLink = ""
+  secondButtonText = "Second Button Text"
+  secondButtonLink = ""
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.de.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/1869213746677061/?hc_ref=ARQRNxTwNi9IqNiUFnTHf7GJU02wIwXQPUSKywvvLJUCrkFmJxn7OZIr07r_IEZPb_A"
+  #twitterUrl = ""
+  #meetupUrl = ""
