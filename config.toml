@@ -19,7 +19,7 @@ DefaultContentLanguage = "de"
   [Languages]
   [Languages.de]
   title = "EA Aachen Webseite"
-  weight = 1
+  weight = 2
   languageCode = "de"
 
   [Languages.de.general]
